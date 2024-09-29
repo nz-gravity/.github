@@ -23,6 +23,7 @@ These tools support research into detecting and analyzing gravitational waves, m
 
 Explore our repositories to find tools and code contributions from our members. Some highlights include:
 - **[SGVB_PSD](https://nz-gravity.github.io/sgvb_psd/)**: A package for estimating the power spectral density (PSD) of correlated multivariate detector noise using variational inference.
+- **[Starcatto](https://starccato.github.io/starccato)**: A package for training and using a GAN (Generative Adversarial Network) to generate synthetic GW signals from Stellar core collapse events.
 - **Other research-related software**: Coming soon!
 
 ## How to Contribute
